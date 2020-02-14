@@ -2,6 +2,4 @@ new file in branch a #1
 again edit
 Final edit on this file in master branch
 
-local changes
-
-remote change 
+a
