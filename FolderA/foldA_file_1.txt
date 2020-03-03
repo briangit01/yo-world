@@ -1,2 +1,0 @@
-Editing foldA_file1.txt locally.
-Second edit locally.
